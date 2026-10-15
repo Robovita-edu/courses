@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+}
+h1 {
+    color: #0066cc;
+}
+img {
+    max-width: 300px;
+    border-radius: 10px;
+}
